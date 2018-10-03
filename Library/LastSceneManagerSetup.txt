@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/SANTAROU YAGURA/Downloads/hlgTerminal-master/hlgTerminal-master/Assets/Scenes/3_UI.unity
+  isLoaded: 1
+  isActive: 1
